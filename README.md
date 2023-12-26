@@ -35,10 +35,7 @@ Bem-vindo ao Sistema de Estacionamento! Este é um projeto simples em C# para ge
 ## Requisitos
 
 - .NET SDK 7.0 ou superior
-
-
-
-1. Clone este repositório:
-
-    ```bash
   
+  ```bash
+  git clone https://github.com/Hyngras/Meu_Projeto_Estacionamento.git
+    
