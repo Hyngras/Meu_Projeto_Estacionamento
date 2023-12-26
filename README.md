@@ -36,7 +36,7 @@ Bem-vindo ao Sistema de Estacionamento! Este é um projeto simples em C# para ge
 
 - .NET SDK 7.0 ou superior
 
-## Como Executar
+
 
 1. Clone este repositório:
 
